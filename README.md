@@ -36,3 +36,6 @@ Create github account if you don't have one. **Keep the password**
 10. Add SSH key to ssh-agent using the following commands
     - ``` eval "$(ssh-agent -s)" ```
     - ``` ssh-add ~/.ssh/id_ed25519 ```
+
+13. In github go to **Settings**.
+
