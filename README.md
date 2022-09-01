@@ -60,3 +60,5 @@ Create github account if you don't have one. **Keep the password**
 
 23. Restart machine. I don't know why yet :laughing:
 
+24. Test your SSH key using the following command line
+    - ```ssh -T git@github.com```
