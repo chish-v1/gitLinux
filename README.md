@@ -39,3 +39,5 @@ Create github account if you don't have one. **Keep the password**
 
 13. In github go to **Settings**.
 
+14. Open **SSH and GPG Keys**
+
