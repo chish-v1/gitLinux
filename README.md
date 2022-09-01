@@ -18,3 +18,6 @@ Instructions from **The Odin Project** and [Github documentation](https://docs.g
 5. Github default branch no longer called master (apparently invokes slavery connotations/vibes) so change it to main
     - ``` git config --global init.defaultBranch main ```
 
+6. Enable colorful output in git
+    - ``` git config --global color.ui auto ```
+
