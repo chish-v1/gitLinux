@@ -21,3 +21,7 @@ Instructions from **The Odin Project** and [Github documentation](https://docs.g
 6. Enable colorful output in git
     - ``` git config --global color.ui auto ```
 
+7. Verify your name and email address using the following commands
+    - ``` git config --get user.name ```
+    - ``` git config --get user.email ```
+
