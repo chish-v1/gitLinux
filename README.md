@@ -5,3 +5,6 @@ Instructions from **The Odin Project** and [Github documentation](https://docs.g
     - ``` sudo apt update ```
     - ``` sudo apt upgrade ```
 
+2. Install git using the following command 
+    - ``` sudo apt install git ```
+
