@@ -1,6 +1,8 @@
 Tutorial to install git on linux ubuntu using command line interface. 
 Instructions from **The Odin Project** and [Github documentation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
+Create github account if you don't have one. **Keep the password**
+
 1. First update the system using the following commands
     - ``` sudo apt update ```
     - ``` sudo apt upgrade ```
@@ -24,4 +26,7 @@ Instructions from **The Odin Project** and [Github documentation](https://docs.g
 7. Verify your name and email address using the following commands
     - ``` git config --get user.name ```
     - ``` git config --get user.email ```
+
+8. Check if you have an SSH key installed on your machine using the following command, replace ed25519 with rsa if compatible with machine. 
+    - ``` ls ~/.ssh/id_ed25519.pub ```
 
