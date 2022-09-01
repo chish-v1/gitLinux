@@ -8,3 +8,6 @@ Instructions from **The Odin Project** and [Github documentation](https://docs.g
 2. Install git using the following command 
     - ``` sudo apt install git ```
 
+3. Verify git version using the following command
+    - ``` git --version ```
+
