@@ -50,3 +50,7 @@ Create github account if you don't have one. **Keep the password**
 18. Install clipboard utility.
     - ``` sudo apt-get install xclip ```
 
+19. Copy the SSH key to clipboard using the next command line. Paste the SSH key inside the **Key** box in github. The alternative is to output the SSH key in cli using ```cat``` command then copy and paste it in the **Key** box in github.
+    - ``` xclip -selection clipboard < ~/.ssh/id_ed25519.pub``` OR
+    - ``` cat ~/.ssh/id_ed25519```
+    
