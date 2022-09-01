@@ -15,3 +15,6 @@ Instructions from **The Odin Project** and [Github documentation](https://docs.g
     - ``` git config --global user.name "Your Name" ```
     - ``` git config --global user.email "Your email address" ```
 
+5. Github default branch no longer called master (apparently invokes slavery connotations/vibes) so change it to main
+    - ``` git config --global init.defaultBranch main ```
+
