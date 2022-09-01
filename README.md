@@ -58,3 +58,5 @@ Create github account if you don't have one. **Keep the password**
 
 22. You will be prompted to type in your github password.
 
+23. Restart machine. I don't know why yet :laughing:
+
