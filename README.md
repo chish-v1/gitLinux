@@ -45,3 +45,5 @@ Create github account if you don't have one. **Keep the password**
 
 16. Type your preferred SSH key name in the **Title** box. 
 
+17. Go back to the command line interface
+
