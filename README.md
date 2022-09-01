@@ -11,3 +11,7 @@ Instructions from **The Odin Project** and [Github documentation](https://docs.g
 3. Verify git version using the following command
     - ``` git --version ```
 
+4. Configure git and github following the following commands. You are letting git know who you are.
+    - ``` git config --global user.name "Your Name" ```
+    - ``` git config --global user.email "Your email address" ```
+
