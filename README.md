@@ -30,3 +30,6 @@ Create github account if you don't have one. **Keep the password**
 8. Check if you have an SSH key installed on your machine using the following command, replace ed25519 with rsa if compatible with machine. 
     - ``` ls ~/.ssh/id_ed25519.pub ```
 
+9. Use the following command to generate an SSH key. Press enter if prompted to enter location. Then enter your machine password.
+    - ``` ssh-keygen -t ed25519 -b 4096 -C "your email address" ```
+
