@@ -1,0 +1,14 @@
+Alright, what did I learn? 
+
+
+- Update linux system.
+- Install git using sudo apt install git.
+- Install SSH Key on machine root directory.
+- Link git and github using SSH Key.
+- Install xclip utility.
+- Clone a github repository using the SSH link ('git clone SSH link')
+- In local repository display the URL of the remote repository using 'git remote -v'
+- Stage changes to local repository using 'git add'.
+- Makes changes to local repository files/directory using git commit and option m for commit message ('git commit -m "commit message"').
+- Check the status of files/directories using 'git status'.
+- Upload local repository changes to github using 'git push'.
