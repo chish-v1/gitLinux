@@ -33,3 +33,6 @@ Create github account if you don't have one. **Keep the password**
 9. Use the following command to generate an SSH key. Press enter if prompted to enter location. Then enter your machine password.
     - ``` ssh-keygen -t ed25519 -b 4096 -C "your email address" ```
 
+10. Add SSH key to ssh-agent using the following commands
+    - ``` eval "$(ssh-agent -s)" ```
+    - ``` ssh-add ~/.ssh/id_ed25519 ```
