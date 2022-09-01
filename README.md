@@ -56,3 +56,5 @@ Create github account if you don't have one. **Keep the password**
     
 21. Link git to github by clicking **Add SSH key**
 
+22. You will be prompted to type in your github password.
+
