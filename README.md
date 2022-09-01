@@ -47,3 +47,6 @@ Create github account if you don't have one. **Keep the password**
 
 17. Go back to the command line interface
 
+18. Install clipboard utility.
+    - ``` sudo apt-get install xclip ```
+
