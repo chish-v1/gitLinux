@@ -54,3 +54,5 @@ Create github account if you don't have one. **Keep the password**
     - ``` xclip -selection clipboard < ~/.ssh/id_ed25519.pub``` OR
     - ``` cat ~/.ssh/id_ed25519```
     
+21. Link git to github by clicking **Add SSH key**
+
